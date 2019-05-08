@@ -1,4 +1,4 @@
-set :application, 'fels_20190104'
+set :application, 'fels'
 
 # Define where can Capistrano access the source repository
 
